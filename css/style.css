@@ -30,3 +30,13 @@ a {
 a:hover {
     color: green;
 }
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+.my-class {
+    margin: 20px;
+    border: 6px solid greenyellow;
+    padding: 10px;
+    background-color: indianred;
+}
