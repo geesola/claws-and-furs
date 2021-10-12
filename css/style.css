@@ -36,7 +36,11 @@ h2 {
 }
 .my-class {
     margin: 20px;
-    border: 6px solid greenyellow;
+    border: 6px solid black;
     padding: 10px;
-    background-color: indianred;
+    background-color: brown;
+}
+img {
+    margin: 20px;
+    padding: 10px;
 }
