@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+#info {
+    display: flex;
+}
+.social {
+    margin-left: 5%;
+}
+.jumbotron {
+    background-color: brown;
+    color: black;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+header.head {
+    display: flex;
+    padding: 10px;
+}
+.NAV {
+    margin: 20px 0px 0px 20%;
+}
+body {
+    background-color: burlywood;
+}
+a {
+    color: red; text-decoration: none; width: 50px; padding: 16px;
+}
+a:hover {
+    color: green;
+}
